@@ -1,0 +1,3 @@
+ ./bin/orb_modify TUM2.yaml data/1.png 
+
+ ./bin/orb_matcher TUM2.yaml data/1.png data/2.png
